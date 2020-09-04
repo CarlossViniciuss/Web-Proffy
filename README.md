@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Proffy" src=".github/logo.svg" height="100px" />
+    <img alt="Proffy" src="landing.svg" height="100px" />
     <br>Next Level Week #2<br/>
     Node.js | ReactJS | React Native
 </h1>
@@ -18,9 +18,8 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
-  <img alt="design do projeto" width="650px" src="./.github/design.png" />
-<p>
+![Screenshot](Proffy.mp4)
+
 
 ## :bookmark: Sobre
 
