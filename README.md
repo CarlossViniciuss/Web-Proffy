@@ -19,6 +19,10 @@
 </p>
 
 ![Screenshot](gif.gif)
+<br>
+
+![Screenshot](gif1.gif)
+
 
 
 ## :bookmark: Sobre
