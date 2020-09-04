@@ -18,7 +18,7 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-![Screenshot](Proffy.mp4)
+![Screenshot](gif.gif)
 
 
 ## :bookmark: Sobre
